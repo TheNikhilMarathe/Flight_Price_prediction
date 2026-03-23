@@ -1,4 +1,3 @@
-# Flight_Price_prediction:
-Analyzed and cleaned data of various aviaton companies from different sources and destinations.
-Performed Exploratory Data Analysis to generate insights from the data.
-Created a predictive model to predict flight price from various sources to destinations.
+## Flight_Price_prediction:
+# Built an end to end Machine Learning regresion model to predict flight ticket prices
+# based on airline, timing, source-destination and travel-date.
